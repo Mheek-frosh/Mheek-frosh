@@ -45,7 +45,8 @@
 <div align="center">
 
 <p>
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" />
+  <!-- 💻 NEW CODING GIF -->
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" />
 </p>
 
 </div>
