@@ -44,9 +44,19 @@
 
 ---
 
+<div align="center">
+
+<p>
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" />
+</p>
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
-* 📱 Flutter Developer
+* 📱 Mobile\Web Developer
 * 🎨 UI/UX Designer
 * 💳 Building **RexiPay (Fintech App)**
 * ⚡ I build clean, scalable and user-focused apps
@@ -97,6 +107,7 @@ A fintech app focused on seamless crypto → Naira transactions, offline payment
 
 * 🌍 https://mikeusd.vercel.app
 * 💻 https://codewithmike.vercel.app
+*
 
 ---
 
