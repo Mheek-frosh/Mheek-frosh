@@ -1,48 +1,34 @@
-<!-- 🌌 PREMIUM SVG HERO BANNER -->
-
 <div align="center">
 
-<svg width="100%" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+<!-- 🌌 REAL SVG GALAXY HERO -->
+
+<svg width="100%" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="galaxy" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0f2027"/>
-      <stop offset="50%" stop-color="#203a43"/>
-      <stop offset="100%" stop-color="#2c5364"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B0F1A"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#1F2937"/>
     </linearGradient>
-
-```
-<radialGradient id="star" cx="50%" cy="50%" r="50%">
-  <stop offset="0%" stop-color="#ffffff"/>
-  <stop offset="100%" stop-color="transparent"/>
-</radialGradient>
-```
-
   </defs>
 
-  <!-- Background -->
-
-  <rect width="1200" height="300" fill="url(#galaxy)" />
+  <rect width="1200" height="280" fill="url(#bg)" />
 
   <!-- Stars -->
 
-  <circle cx="200" cy="80" r="2" fill="white"/>
-  <circle cx="400" cy="50" r="1.5" fill="white"/>
-  <circle cx="700" cy="100" r="2" fill="white"/>
-  <circle cx="900" cy="70" r="1.5" fill="white"/>
-  <circle cx="1100" cy="120" r="2" fill="white"/>
+  <circle cx="150" cy="60" r="2" fill="#00F7FF"/>
+  <circle cx="300" cy="40" r="1.5" fill="#ffffff"/>
+  <circle cx="600" cy="80" r="2" fill="#00F7FF"/>
+  <circle cx="900" cy="50" r="1.5" fill="#ffffff"/>
+  <circle cx="1100" cy="100" r="2" fill="#00F7FF"/>
 
-  <!-- Glow -->
+  <!-- Title -->
 
-  <circle cx="600" cy="150" r="200" fill="url(#star)" opacity="0.1"/>
-
-  <!-- Text -->
-
-  <text x="50%" y="45%" text-anchor="middle" fill="#00F7FF" font-size="40" font-family="Orbitron, sans-serif">
-    Michael Usidamen
+  <text x="50%" y="45%" text-anchor="middle" fill="#00F7FF" font-size="38" font-family="Orbitron, sans-serif">
+    Mheek-frosh
   </text>
 
-  <text x="50%" y="65%" text-anchor="middle" fill="#ffffff" font-size="18" font-family="monospace">
-    Flutter Dev • UI/UX • Fintech Builder
+  <text x="50%" y="65%" text-anchor="middle" fill="#ffffff" font-size="16" font-family="monospace">
+    Flutter Developer • UI/UX • Fintech Builder
   </text>
 </svg>
 
@@ -50,23 +36,20 @@
 
 ---
 
-# 👨‍💻 Michael Usidamen
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+RexiPay;Flutter+Developer;UI%2FUX+Designer;Clean+Code+Lover" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+RexiPay;Flutter+Developer;Design+Meets+Code;Fintech+Innovator" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-* 📱 Flutter Developer (5+ years)
+* 📱 Flutter Developer
 * 🎨 UI/UX Designer
-* 💳 Building **RexiPay**
-* 🌍 Nigeria
-* ⚡ Focused on smooth UI + real-world fintech solutions
+* 💳 Building **RexiPay (Fintech App)**
+* ⚡ I build clean, scalable and user-focused apps
 
 ---
 
@@ -74,7 +57,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,react,nextjs,postgres,figma,git,github,docker&perline=6" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,react,nextjs,postgres,figma,git,github&perline=6" />
 
 </div>
 
@@ -84,9 +67,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mheek-frosh&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mheek-frosh&theme=tokyonight" />
 
 </div>
 
@@ -96,7 +79,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Mheek-frosh/Mheek-frosh/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -106,30 +89,25 @@
 
 ### 💳 RexiPay
 
-* Crypto → Naira conversion
-* Clean fintech UI
-* Offline payment system
+A fintech app focused on seamless crypto → Naira transactions, offline payments, and modern UI experience.
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://mikeusd.vercel.app">🌍 Portfolio</a> • <a href="https://codewithmike.vercel.app">💻 Projects</a>
-
-</div>
+* 🌍 https://mikeusd.vercel.app
+* 💻 https://codewithmike.vercel.app
 
 ---
 
-## 💭 Dev Quote
+## 💡 Dev Mindset
 
-> “Design is not just what it looks like — it’s how it works.”
+> “I don’t just build apps — I design experiences.”
 
 ---
 
 <div align="center">
 
-✨ Built with code + creativity
+✨ Always building. Always improving.
 
 </div>
