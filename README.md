@@ -1,85 +1,135 @@
+<!-- 🌌 PREMIUM SVG HERO BANNER -->
+
 <div align="center">
 
-# 👋 Hey there, I'm Michael Usidamen
+<svg width="100%" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="galaxy" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Flutter+Developer+%7C+Web+%26+Mobile+Apps&center=true&width=500&height=50&color=02569B&font=Fira+Code&duration=4000&pause=2000&repeat=true)](https://git.io/typing-svg)
+```
+<radialGradient id="star" cx="50%" cy="50%" r="50%">
+  <stop offset="0%" stop-color="#ffffff"/>
+  <stop offset="100%" stop-color="transparent"/>
+</radialGradient>
+```
 
-<p>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
-</p>
+  </defs>
 
----
+  <!-- Background -->
+
+  <rect width="1200" height="300" fill="url(#galaxy)" />
+
+  <!-- Stars -->
+
+  <circle cx="200" cy="80" r="2" fill="white"/>
+  <circle cx="400" cy="50" r="1.5" fill="white"/>
+  <circle cx="700" cy="100" r="2" fill="white"/>
+  <circle cx="900" cy="70" r="1.5" fill="white"/>
+  <circle cx="1100" cy="120" r="2" fill="white"/>
+
+  <!-- Glow -->
+
+  <circle cx="600" cy="150" r="200" fill="url(#star)" opacity="0.1"/>
+
+  <!-- Text -->
+
+  <text x="50%" y="45%" text-anchor="middle" fill="#00F7FF" font-size="40" font-family="Orbitron, sans-serif">
+    Michael Usidamen
+  </text>
+
+  <text x="50%" y="65%" text-anchor="middle" fill="#ffffff" font-size="18" font-family="monospace">
+    Flutter Dev • UI/UX • Fintech Builder
+  </text>
+</svg>
 
 </div>
 
+---
+
+# 👨‍💻 Michael Usidamen
+
 <div align="center">
 
-### ✨ About Me
-
-| 💡 | **Interested in** Flutter & Dart |
-|:---:|:---|
-| 🤝 | **Open to** collaborating on cross-platform apps |
-| 🔥 | **Focused on** scalable architecture & clean code |
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+RexiPay;Flutter+Developer;UI%2FUX+Designer;Clean+Code+Lover" />
 
 </div>
 
 ---
 
+## 🧠 About Me
+
+* 📱 Flutter Developer (5+ years)
+* 🎨 UI/UX Designer
+* 💳 Building **RexiPay**
+* 🌍 Nigeria
+* ⚡ Focused on smooth UI + real-world fintech solutions
+
+---
+
+## ⚙️ Tech Stack
+
 <div align="center">
 
-### 🛠 Tech Stack
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,react,nextjs,postgres,figma,git,github,docker&perline=6" />
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" />
-</p>
+</div>
 
 ---
 
-### 📱 Project Screenshots
+## 📊 GitHub Stats
 
-*Screenshots from projects I've built — Web & Mobile Developer*
+<div align="center">
 
-| P1 | P2 | P3 |
-|:--:|:--:|:--:|
-| <img src="https://raw.githubusercontent.com/Mheek-frosh/Mheek-frosh/main/screenshots/p1.png" width="180"/> | <img src="https://raw.githubusercontent.com/Mheek-frosh/Mheek-frosh/main/screenshots/p2.png" width="180"/> | <img src="https://raw.githubusercontent.com/Mheek-frosh/Mheek-frosh/main/screenshots/p3.png" width="180"/> |
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 
-### 📫 Let's Connect
-
-<p>
-  <a href="https://www.tiktok.com/@mheek_frosh">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Mheek-frosh/Mheek-frosh">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/michaelusidamen/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
+</div>
 
 ---
 
-*Building the future, one widget at a time* 🚀
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+### 💳 RexiPay
+
+* Crypto → Naira conversion
+* Clean fintech UI
+* Offline payment system
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://mikeusd.vercel.app">🌍 Portfolio</a> • <a href="https://codewithmike.vercel.app">💻 Projects</a>
+
+</div>
+
+---
+
+## 💭 Dev Quote
+
+> “Design is not just what it looks like — it’s how it works.”
+
+---
+
+<div align="center">
+
+✨ Built with code + creativity
 
 </div>
