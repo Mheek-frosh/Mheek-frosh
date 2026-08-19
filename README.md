@@ -84,9 +84,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mheek-frosh&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mheek-frosh&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 
 </div>
 
@@ -143,6 +143,6 @@ A fintech app focused on seamless crypto → Naira transactions, offline payment
 
 <div align="center">
 
-✨ Always building. Always improving.
+ Always building. Always improving.
 
 </div>
